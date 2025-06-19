@@ -1,6 +1,12 @@
-# IP Lookup Tool
+<h1 align="center">🕵️‍♂️ IP-LOOKUP-TOOL</h1>
+<p align="center"><strong>A High-Performance, Extensible Python Tool for IP Geolocation and Threat Intelligence</strong></p>
 
-A Python-based tool for performing IP address lookups with support for geolocation and threat intelligence data.
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/Smmedy06/ip-lookup-tool?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/Python-100%25-blue?logo=python" />
+  <img src="https://img.shields.io/badge/license-MIT-green" />
+  <img src="https://img.shields.io/github/languages/count/Smmedy06/ip-lookup-tool" />
+</p>
 
 ## Features
 
